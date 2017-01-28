@@ -20,7 +20,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
+git clone https://github.com/spam2017/delete.git
 cd BDReborn
 chmod +x beyond.sh
 ./beyond.sh install
@@ -51,31 +51,14 @@ Then restart the bot.
 
 # Support and development
 
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
+More information [delete Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
 
 # Special thanks to
-[@nero_dev](https://telegram.me/nero_dev)
+[@ramin_bnd]https://t.me/ramin_bnd
 
-[@K_a_I_i_I_i_n_u_x](https://telegram.me/K_a_I_i_I_i_n_u_x)
-
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
+[@Pouya9998]https://Pouya9998
 
 * * *
-
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
-[Ali](https://github.com/ali-ghoghnoos) ([Telegram](https://telegram.me/Exacute))
-
-[Rixel](https://github.com/Rixel) ([Telegram](https://telegram.me/Rixel))
-
-[Civey](https://github.com/Oysof) ([Telegram](https://telegram.me/Civey))
-
 ### Our Telegram channel:
 
 [@BeyondTeam](https://telegram.me/BeyondTeam)
