@@ -22,14 +22,14 @@
 cd $HOME
 git clone https://github.com/spam2017/delete.git
 cd BDReborn
-chmod +x beyond.sh
-./beyond.sh install
+chmod +x delete.sh
+./delete.sh install
 ./beyond.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/spam2017/delete.git && cd delete && chmod +x delete.sh && ./delete.sh install && ./delete.sh
 ```
 
 * * *
