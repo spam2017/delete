@@ -1,4 +1,4 @@
-# [BDreborn](https://telegram.me/BDreborn)
+# [Deleted_TM](https://telegram.me/Deleted_TM)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -51,14 +51,14 @@ Then restart the bot.
 
 # Support and development
 
-More information [delete Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
+More information [delete Development](https://telegram.me/joinchat/DDMX5T8RuU16lUylUE5j_A)
 
 # Special thanks to
-[@ramin_bnd]https://t.me/ramin_bnd
+[@ramin_bnd](https://t.me/ramin_bnd)
 
-[@Pouya9998]https://Pouya9998
+[@Pouya9998](https://Pouya9998)
 
 * * *
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[@Deleted_TM](https://telegram.me/Deleted_TM)
